@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\filibe"
+		},
+		{
+			"path": "..\\..\\..\\filib\\fonts"
+		},
+		{
+			"path": "..\\..\\..\\filib\\img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "filibe"
+	}
+}
